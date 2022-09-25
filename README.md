@@ -19,6 +19,6 @@ If you are not familiar with Google Colab, a nice video can be found [here](http
 
 Clicking the run button on the left hand side sequentially, for each cell, will allow you to run the platform.
 
-The program is designed to compare the k-means algorithm with a tree algorithm we developed. There are three datasets on which the program has been tested, one of a small size (the Titanic dataset), one of a medium size (0.001% of the title_basics dataset from imdb), and one of a large size (0.01% of the title_basics dataset from imdb).
+The program is designed to compare the k-means algorithm with a tree algorithm we developed. There are three datasets on which the program has been tested, one of a small size (the Titanic dataset), one of a medium size (0.1% of the title_basics dataset from imdb), and one of a large size (1% of the title_basics dataset from imdb).
 ### Note
 The user should run only one cell from section 2 of the Google Colab notebook: the cell that corresponds to the dataset they want. The cells are clearly labeled inside the notebook.
